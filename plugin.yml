@@ -1,0 +1,6 @@
+name: MyFisrtPlugin
+author: TheCreeperESP
+version: 1.0 (Only one version, i don't want to update this plugin.)
+game-version: 1.11.2
+commands:
+   test:
