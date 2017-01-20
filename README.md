@@ -1,4 +1,4 @@
-# GeoAntiMove
+# MyFirstPlugin
 Test Plugin (My Fisrt Plugin)
 Plugin by TheCreeperESP
 
